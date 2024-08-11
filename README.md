@@ -5,7 +5,6 @@
 # Project Details
 - PROJECT TITLE      : BUILDING A WEBSITE USING CANVA
 - BRAND              : headphones 
-- TARGET             : Men
 - PROJECT SITE LINK  : https://harinii2415.my.canva.site/sales-product-website
 
 
